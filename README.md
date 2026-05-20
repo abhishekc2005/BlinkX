@@ -56,5 +56,3 @@ src/
 
 This project prioritizes **Visual Excellence** and **UX Precision**. Every shadow, spacing, and micro-interaction is designed to emulate the production-level quality of Blinkit.com.
 
----
-Made with ❤️ by Antigravity AI
